@@ -53,7 +53,8 @@ return -1;
 
 #### University:
 
-- Belarusian National Technical University, Civil Engineering major
+- The National Technical University "Kharkiv Polytechnic Institute" (NTU "KhPI"), Mechanical Engineer
+- Kharkiv National University of Radio Electronics (NURE), Systems Analyst
 
 #### Courses:
 
