@@ -35,7 +35,7 @@ I absorb information well and am willing to work hard to learn new things.
 
 ## Code example:
 
-'''
+```
 function peak(arr) {
 
 for (let i = 1; i < arr.length - 1; i++) {
@@ -47,7 +47,7 @@ return i;
 }
 return -1;
 }
-'''
+```
 
 ### Education
 
