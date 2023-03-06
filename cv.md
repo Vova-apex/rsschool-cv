@@ -1,5 +1,3 @@
-![My foto](/img/i.jpg "My foto")
-
 # Volodymyr Leliuk
 
 ## Junior Frontend Developer
